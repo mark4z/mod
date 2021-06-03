@@ -5,5 +5,5 @@ type API struct {
 }
 
 func NewAPI() *API {
-	return &API{version: "0.0.1"}
+	return &API{version: "0.0.2"}
 }
